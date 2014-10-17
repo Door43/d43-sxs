@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sxs:home|Door43 (sxs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sxs|d43-sxs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sxs/archive/master.zip|d43-sxs.zip]]
+
+**Recent Changes**
+{{changes>ns = sxs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sxs|Ethnologue data]]
+
